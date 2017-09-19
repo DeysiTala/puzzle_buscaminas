@@ -1,0 +1,35 @@
+.asterico{
+	background-color: #D4D1D3;
+}
+
+.white{
+	background-color: #D4D1D3;
+}
+
+td{
+        width: 15px;
+        height:  15px;
+        border: 1px;
+        padding: 10px;
+        background-color: #D4D1D3
+}
+
+#tablero {
+	/*background-image: url(https://s-media-cache-ak0.pinimg.com/originals/bf/6f/81/bf6f8176eff5f6431d6f895a71fef8da.jpg);*/
+	background-repeat: no-repeat;
+	background-size: contain;
+	left: 52px;
+	top:45px;
+}
+img{
+	margin-right: 3px;
+	margin-bottom: 3px;
+	margin-left: 3px;
+	margin-top: 3px;
+	border: 1px solid black;
+	width: 15%;
+}
+div#container{
+	border: 1px solid black;
+    width: 30%;
+}
