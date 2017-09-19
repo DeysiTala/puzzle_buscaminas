@@ -1,6 +1,7 @@
 var tablero = document.getElementById("tablero");
 var tabla = document.createElement("table");
-
+//Dibujando el mapa
+/*
 var mapa = [
     "*******",
     "** ** *",
@@ -31,13 +32,12 @@ for (var i = 0; i < mapa.length; i++) {
  tablero.appendChild(tabla);
 $("td").click(function(){
 	let xy = $(this).attr("id");
-	
 
-});
+
+});*/
 
 //-----------------------------------------
-/*
-
+//Con solo imagenes
 var imagenes = [
 	"assets/img/bomb2.Png", "assets/img/bandera.png", "assets/img/bomb2.Png", "assets/img/bandera.png","assets/img/bandera.png", "assets/img/bomb2.Png","assets/img/bomb2.Png",
 	"assets/img/bomb2.Png", "assets/img/bandera.png", "assets/bandera.png", "assets/img/bomb2.Png", "assets/img/bandera.png", "assets/img/bomb2.Png","assets/img/bandera.png",
